@@ -1,0 +1,36 @@
+{
+    "status": "ok",
+    "currencies": [
+    {
+       "rank": 1,
+        "name": "bitcoin",
+        "cost": "38148.20"
+    },
+    {
+        "rank": 1,
+        "name": "bitcoin",
+        "cost": "38148.20"
+    },
+    {
+        "rank": 2,
+        "name": "yearn finance",
+        "cost": "17509.10"
+    },
+        
+    {
+        "rank": 3,
+        "name": "ethereum",
+        "cost": "2815.86"
+    },
+    {
+        "rank": 4,
+        "name": "maker",
+        "cost": "1622.62"
+    },
+    {
+        "rank": 5,
+        "name": "gnosis",
+        "cost": "316.05"
+    }  
+    ]
+}
